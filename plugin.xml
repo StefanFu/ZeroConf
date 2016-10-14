@@ -32,7 +32,7 @@
             </feature>
         </config-file>
 
-        <framework src="javax.jmdns:jmdns:+"/>
+        <framework src="org.jmdns:jmdns:3.5.1"/>
 
         <source-file src="src/android/ZeroConf.java" target-dir="src/com/triggertrap" />
 
